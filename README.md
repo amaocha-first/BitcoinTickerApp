@@ -1,11 +1,7 @@
-# BitcoinTicker
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Bitcoin Ticker App
+# BitcoinTickerApp
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+![demo](https://github.com/amaocha-first/BitcoinTickerApp/blob/media/BitcoinTickerAppDemo.gif)
 
-Pro: Git clone to your Xcode projects folder.
 
-## Finished App
-![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
-
-Copyright © The App Brewery
+Udemy講座[iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp](https://www.udemy.com/ios11-app-development-bootcamp/?start=0)で、制作したビットコインの平均価格を表示するアプリです。  
+BitcoinAverage APIを使って、平均価格を表示しています。
